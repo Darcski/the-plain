@@ -3,8 +3,15 @@ layout: page
 title: About
 ---
 
-Hello.
+**Darcski, Speedrunner and Waffle Enthusiast.**
 
-This will be your About page. Anything about you, it should be written here in details. You may describe your bio here like who you are, what you do, your intention, social site hyperlinks and how people can contact you, etc.
+I like pizza, pasta and ferrets.
 
-**Less is more..**
+If you would like to donate, please leave your money at:
+
+17 Pavilion Way,
+Amersham,
+Hp6 6PZ
+
+*(This is not my real address. Don't get any ideas.)
+
